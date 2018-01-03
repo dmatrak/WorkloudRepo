@@ -1,4 +1,4 @@
-# 1.Architecture of this project
+# 1. Architecture of this project
 
 The projects are the following 
 
@@ -20,7 +20,7 @@ This a Web API project.
 
 \Workloud.Challenge.WebApplication
 This a ASP.NET MVC application project (Web Client), a presentation layer for the CRUD operations. It consumes the 
-API's from the Web Service layer.
+API's from the Web Service layer via RestSharp (http://restsharp.org/). 
 
 # 2. Inversion of Control and Dependency Injection.
 
@@ -30,3 +30,6 @@ API's from the Web Service layer.
 
 In order to run the app in your local server, create a database in MS SQL Server or Express with name WorkloudChallenge.
 Then execute the script create-db-entities-scripts which is inside sql-scripts folder.
+
+# 4. How to run the project.
+Set Workloud.Challenge.WebApplication as the start up project in order to run it locally.
