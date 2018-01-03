@@ -1,0 +1,14 @@
+C:\Users\matrix\documents\visual studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.DataAccess\bin\Release\Workloud.Challenge.DataAccess.dll.config
+C:\Users\matrix\documents\visual studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.DataAccess\bin\Release\Workloud.Challenge.DataAccess.dll
+C:\Users\matrix\documents\visual studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.DataAccess\bin\Release\Workloud.Challenge.DataAccess.pdb
+C:\Users\matrix\documents\visual studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.DataAccess\bin\Release\EntityFramework.dll
+C:\Users\matrix\documents\visual studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.DataAccess\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\matrix\documents\visual studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.DataAccess\bin\Release\Workloud.Challenge.Abstractions.dll
+C:\Users\matrix\documents\visual studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.DataAccess\bin\Release\Workloud.Challenge.Domain.dll
+C:\Users\matrix\documents\visual studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.DataAccess\bin\Release\Workloud.Challenge.Abstractions.pdb
+C:\Users\matrix\documents\visual studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.DataAccess\bin\Release\Workloud.Challenge.Domain.pdb
+C:\Users\matrix\documents\visual studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.DataAccess\bin\Release\EntityFramework.xml
+C:\Users\matrix\documents\visual studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.DataAccess\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\matrix\documents\visual studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.DataAccess\obj\Release\Workloud.Challenge.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\matrix\documents\visual studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.DataAccess\obj\Release\Workloud.Challenge.DataAccess.dll
+C:\Users\matrix\documents\visual studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.DataAccess\obj\Release\Workloud.Challenge.DataAccess.pdb

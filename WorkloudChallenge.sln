@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workloud.Challenge.WebApplication", "Workloud.Challenge.WebApplication\Workloud.Challenge.WebApplication.csproj", "{4F0CA863-1E9E-4C82-B2DA-89087C3867DF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{A54D1444-EA23-442C-A955-39AC853BAC6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workloud.Challenge.Domain", "Workloud.Challenge.Domain\Workloud.Challenge.Domain.csproj", "{D5549A69-1F44-4C4C-8A95-C7E1D88899B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workloud.Challenge.DataAccess", "Workloud.Challenge.DataAccess\Workloud.Challenge.DataAccess.csproj", "{41B9ECB4-2090-4B3A-8153-5F0952B4D4BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workloud.Challenge.WebService", "Workloud.Challenge.WebService\Workloud.Challenge.WebService.csproj", "{6EA22D37-2720-4564-9976-FB148C1D757E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workloud.Challenge.Business", "Workloud.Challenge.Business\Workloud.Challenge.Business.csproj", "{846F84AA-81C6-47D8-BDD4-68F2491878BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workloud.Challenge.Abstractions", "Workloud.Challenge.Abstractions\Workloud.Challenge.Abstractions.csproj", "{8845BF13-1F3B-4525-86AB-2DB2AFA9AA26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F0CA863-1E9E-4C82-B2DA-89087C3867DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F0CA863-1E9E-4C82-B2DA-89087C3867DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F0CA863-1E9E-4C82-B2DA-89087C3867DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F0CA863-1E9E-4C82-B2DA-89087C3867DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5549A69-1F44-4C4C-8A95-C7E1D88899B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5549A69-1F44-4C4C-8A95-C7E1D88899B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5549A69-1F44-4C4C-8A95-C7E1D88899B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5549A69-1F44-4C4C-8A95-C7E1D88899B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41B9ECB4-2090-4B3A-8153-5F0952B4D4BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41B9ECB4-2090-4B3A-8153-5F0952B4D4BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41B9ECB4-2090-4B3A-8153-5F0952B4D4BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41B9ECB4-2090-4B3A-8153-5F0952B4D4BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EA22D37-2720-4564-9976-FB148C1D757E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EA22D37-2720-4564-9976-FB148C1D757E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EA22D37-2720-4564-9976-FB148C1D757E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EA22D37-2720-4564-9976-FB148C1D757E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{846F84AA-81C6-47D8-BDD4-68F2491878BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{846F84AA-81C6-47D8-BDD4-68F2491878BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{846F84AA-81C6-47D8-BDD4-68F2491878BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{846F84AA-81C6-47D8-BDD4-68F2491878BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8845BF13-1F3B-4525-86AB-2DB2AFA9AA26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8845BF13-1F3B-4525-86AB-2DB2AFA9AA26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8845BF13-1F3B-4525-86AB-2DB2AFA9AA26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8845BF13-1F3B-4525-86AB-2DB2AFA9AA26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+c:\Users\matrix\Documents\Visual Studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.Abstractions\bin\Debug\Workloud.Challenge.Abstractions.dll
+c:\Users\matrix\Documents\Visual Studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.Abstractions\bin\Debug\Workloud.Challenge.Abstractions.pdb
+c:\Users\matrix\Documents\Visual Studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.Abstractions\obj\Debug\Workloud.Challenge.Abstractions.csprojResolveAssemblyReference.cache
+c:\Users\matrix\Documents\Visual Studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.Abstractions\obj\Debug\Workloud.Challenge.Abstractions.dll
+c:\Users\matrix\Documents\Visual Studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.Abstractions\obj\Debug\Workloud.Challenge.Abstractions.pdb
+C:\Users\matrix\Documents\Visual Studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.Abstractions\bin\Debug\Workloud.Challenge.Abstractions.dll.config
+C:\Users\matrix\Documents\Visual Studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.Abstractions\bin\Debug\EntityFramework.dll
+C:\Users\matrix\Documents\Visual Studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.Abstractions\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\matrix\Documents\Visual Studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.Abstractions\bin\Debug\EntityFramework.xml
+C:\Users\matrix\Documents\Visual Studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.Abstractions\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\matrix\documents\visual studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.Abstractions\bin\Debug\Workloud.Challenge.Domain.dll
+C:\Users\matrix\documents\visual studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.Abstractions\bin\Debug\Workloud.Challenge.Domain.pdb

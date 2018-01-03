@@ -1,0 +1,11 @@
+C:\Users\matrix\documents\visual studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.Business\bin\Release\Workloud.Challenge.Business.dll
+C:\Users\matrix\documents\visual studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.Business\bin\Release\Workloud.Challenge.Business.pdb
+C:\Users\matrix\documents\visual studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.Business\bin\Release\Workloud.Challenge.Abstractions.dll
+C:\Users\matrix\documents\visual studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.Business\bin\Release\Workloud.Challenge.Domain.dll
+C:\Users\matrix\documents\visual studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.Business\bin\Release\EntityFramework.dll
+C:\Users\matrix\documents\visual studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.Business\bin\Release\Workloud.Challenge.Abstractions.pdb
+C:\Users\matrix\documents\visual studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.Business\bin\Release\Workloud.Challenge.Domain.pdb
+C:\Users\matrix\documents\visual studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.Business\bin\Release\EntityFramework.xml
+C:\Users\matrix\documents\visual studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.Business\obj\Release\Workloud.Challenge.Business.csprojResolveAssemblyReference.cache
+C:\Users\matrix\documents\visual studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.Business\obj\Release\Workloud.Challenge.Business.dll
+C:\Users\matrix\documents\visual studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.Business\obj\Release\Workloud.Challenge.Business.pdb

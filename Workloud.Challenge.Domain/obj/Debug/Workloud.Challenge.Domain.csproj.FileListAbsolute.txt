@@ -1,0 +1,5 @@
+c:\Users\matrix\Documents\Visual Studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.Domain\bin\Debug\Workloud.Challenge.Domain.dll
+c:\Users\matrix\Documents\Visual Studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.Domain\bin\Debug\Workloud.Challenge.Domain.pdb
+c:\Users\matrix\Documents\Visual Studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.Domain\obj\Debug\Workloud.Challenge.Domain.dll
+c:\Users\matrix\Documents\Visual Studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.Domain\obj\Debug\Workloud.Challenge.Domain.pdb
+C:\Users\matrix\Documents\Visual Studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.Domain\obj\Debug\Workloud.Challenge.Domain.csprojResolveAssemblyReference.cache
