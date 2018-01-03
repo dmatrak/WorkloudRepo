@@ -22,11 +22,11 @@ This a Web API project.
 This a ASP.NET MVC application project (Web Client), a presentation layer for the CRUD operations. It consumes the 
 API's from the Web Service layer.
 
-# 1. Inversion of Control and Dependency Injection.
+# 2. Inversion of Control and Dependency Injection.
 
 Τhe Web Service Tier uses ninject library (http://www.ninject.org/) as its IoC container.
 
-# 1. Database Creation.
+# 3. Database Creation.
 
 In order to run the app in your local server, create a database in MS SQL Server or Express with name WorkloudChallenge.
 Then execute the script create-db-entities-scripts which is inside sql-scripts folder.
