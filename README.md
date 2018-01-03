@@ -19,7 +19,8 @@ Includes all the interfaces.
 This a Web API project. 
 
 \Workloud.Challenge.WebApplication
-This a ASP.NET MVC application project, a presentation layer for the CRUD operations. 
+This a ASP.NET MVC application project (Web Client), a presentation layer for the CRUD operations. It consumes the 
+API's from the Web Service layer.
 
 # 1. Inversion of Control and Dependency Injection.
 
