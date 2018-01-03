@@ -23,4 +23,4 @@ This a ASP.NET MVC application project, a presentation layer for the CRUD operat
 
 # 1. Inversion of Control and Dependency Injection.
 
-In the Web Service Tier uses ninject library (http://www.ninject.org/) as its IoC container.
+Τhe Web Service Tier uses ninject library (http://www.ninject.org/) as its IoC container.
