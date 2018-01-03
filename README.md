@@ -28,7 +28,7 @@ API's from the Web Service layer via RestSharp (http://restsharp.org/).
 
 # 3. Database Creation.
 
-In order to run the app in your local server, create a database in MS SQL Server or Express with name WorkloudChallenge.
+Fot the database creation in MS SQL Server or Express, add a new one with name WorkloudChallenge.
 Then execute the script create-db-entities-scripts which is inside sql-scripts folder.
 
 # 4. How to run the project.
