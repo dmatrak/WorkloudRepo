@@ -24,3 +24,8 @@ This a ASP.NET MVC application project, a presentation layer for the CRUD operat
 # 1. Inversion of Control and Dependency Injection.
 
 Τhe Web Service Tier uses ninject library (http://www.ninject.org/) as its IoC container.
+
+# 1. Database Creation.
+
+In order to run the app in your local server, create a database in MS SQL Server or Express with name WorkloudChallenge.
+Then execute the script create-db-entities-scripts which is inside sql-scripts folder.
