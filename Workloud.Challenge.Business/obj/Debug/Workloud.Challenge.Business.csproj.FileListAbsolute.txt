@@ -9,3 +9,14 @@ c:\Users\matrix\Documents\Visual Studio 2015\Projects\WorkloudChallenge\Workloud
 c:\Users\matrix\Documents\Visual Studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.Business\obj\Debug\Workloud.Challenge.Business.pdb
 C:\Users\matrix\Documents\Visual Studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.Business\bin\Debug\EntityFramework.dll
 C:\Users\matrix\Documents\Visual Studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.Business\bin\Debug\EntityFramework.xml
+C:\Users\matrix\Documents\GitHub\WorkloudRepo\Workloud.Challenge.Business\bin\Debug\Workloud.Challenge.Business.dll
+C:\Users\matrix\Documents\GitHub\WorkloudRepo\Workloud.Challenge.Business\bin\Debug\Workloud.Challenge.Business.pdb
+C:\Users\matrix\Documents\GitHub\WorkloudRepo\Workloud.Challenge.Business\bin\Debug\Workloud.Challenge.Abstractions.dll
+C:\Users\matrix\Documents\GitHub\WorkloudRepo\Workloud.Challenge.Business\bin\Debug\Workloud.Challenge.Domain.dll
+C:\Users\matrix\Documents\GitHub\WorkloudRepo\Workloud.Challenge.Business\bin\Debug\EntityFramework.dll
+C:\Users\matrix\Documents\GitHub\WorkloudRepo\Workloud.Challenge.Business\bin\Debug\Workloud.Challenge.Abstractions.pdb
+C:\Users\matrix\Documents\GitHub\WorkloudRepo\Workloud.Challenge.Business\bin\Debug\Workloud.Challenge.Domain.pdb
+C:\Users\matrix\Documents\GitHub\WorkloudRepo\Workloud.Challenge.Business\bin\Debug\EntityFramework.xml
+C:\Users\matrix\Documents\GitHub\WorkloudRepo\Workloud.Challenge.Business\obj\Debug\Workloud.Challenge.Business.csprojResolveAssemblyReference.cache
+C:\Users\matrix\Documents\GitHub\WorkloudRepo\Workloud.Challenge.Business\obj\Debug\Workloud.Challenge.Business.dll
+C:\Users\matrix\Documents\GitHub\WorkloudRepo\Workloud.Challenge.Business\obj\Debug\Workloud.Challenge.Business.pdb

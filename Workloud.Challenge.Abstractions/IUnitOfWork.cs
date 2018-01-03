@@ -11,7 +11,7 @@ namespace Workloud.Challenge.Abstractions
         IEmployeeRepository Employee { get; }
 
         IEmployeeSkillsRepository EmployeeSkills { get; }
-
+        
         Task<int> Complete();
     }
 }

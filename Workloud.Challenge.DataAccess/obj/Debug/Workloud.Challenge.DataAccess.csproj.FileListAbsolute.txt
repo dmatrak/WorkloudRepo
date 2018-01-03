@@ -12,3 +12,17 @@ C:\Users\matrix\Documents\Visual Studio 2015\Projects\WorkloudChallenge\Workloud
 C:\Users\matrix\Documents\Visual Studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.DataAccess\bin\Debug\Workloud.Challenge.Abstractions.pdb
 C:\Users\matrix\documents\visual studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.DataAccess\bin\Debug\Workloud.Challenge.Domain.dll
 C:\Users\matrix\documents\visual studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.DataAccess\bin\Debug\Workloud.Challenge.Domain.pdb
+C:\Users\matrix\Documents\GitHub\WorkloudRepo\Workloud.Challenge.DataAccess\bin\Debug\Workloud.Challenge.DataAccess.dll.config
+C:\Users\matrix\Documents\GitHub\WorkloudRepo\Workloud.Challenge.DataAccess\bin\Debug\Workloud.Challenge.DataAccess.dll
+C:\Users\matrix\Documents\GitHub\WorkloudRepo\Workloud.Challenge.DataAccess\bin\Debug\Workloud.Challenge.DataAccess.pdb
+C:\Users\matrix\Documents\GitHub\WorkloudRepo\Workloud.Challenge.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\matrix\Documents\GitHub\WorkloudRepo\Workloud.Challenge.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\matrix\Documents\GitHub\WorkloudRepo\Workloud.Challenge.DataAccess\bin\Debug\Workloud.Challenge.Abstractions.dll
+C:\Users\matrix\Documents\GitHub\WorkloudRepo\Workloud.Challenge.DataAccess\bin\Debug\Workloud.Challenge.Domain.dll
+C:\Users\matrix\Documents\GitHub\WorkloudRepo\Workloud.Challenge.DataAccess\bin\Debug\Workloud.Challenge.Abstractions.pdb
+C:\Users\matrix\Documents\GitHub\WorkloudRepo\Workloud.Challenge.DataAccess\bin\Debug\Workloud.Challenge.Domain.pdb
+C:\Users\matrix\Documents\GitHub\WorkloudRepo\Workloud.Challenge.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\matrix\Documents\GitHub\WorkloudRepo\Workloud.Challenge.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\matrix\Documents\GitHub\WorkloudRepo\Workloud.Challenge.DataAccess\obj\Debug\Workloud.Challenge.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\matrix\Documents\GitHub\WorkloudRepo\Workloud.Challenge.DataAccess\obj\Debug\Workloud.Challenge.DataAccess.dll
+C:\Users\matrix\Documents\GitHub\WorkloudRepo\Workloud.Challenge.DataAccess\obj\Debug\Workloud.Challenge.DataAccess.pdb
