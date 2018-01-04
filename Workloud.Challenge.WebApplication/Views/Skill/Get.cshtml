@@ -11,22 +11,28 @@
 </p>
 
 <table class="table">
-    <tr>       
+    <tr>
         <th>
             @Html.DisplayNameFor(model => model.Skill)
         </th>
         <th></th>
     </tr>
 
-@foreach (var item in Model) {
-    <tr>       
-        <td>
-            @Html.DisplayFor(modelItem => item.Skill)
-        </td>
-        <td>
-            @Html.ActionLink("Delete", "Delete", new { id=item.EmployeeSkillId }, new { @class = "btn btn-danger" })
-        </td>
-    </tr>
-}
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Skill)
+            </td>
+            <td>
+                @Html.ActionLink("Delete", "Delete", new { id = item.EmployeeSkillId }, new { @class = "btn btn-danger" })
+            </td>
+        </tr>
+    }
 
 </table>
+
+<div class="form-actions no-color">
+    @Html.ActionLink("Back to Employee Info", "Details", "Employee", new { id = ViewBag.EmployeeId }, null)
+</div>
+
