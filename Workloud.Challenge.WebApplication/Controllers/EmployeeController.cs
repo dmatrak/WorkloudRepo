@@ -11,7 +11,12 @@ namespace Workloud.Challenge.WebApplication.Controllers
 {
     public class EmployeeController : Controller
     {
-        RestClient client = new RestClient("http://workloudchallengewebservice20171228091627.azurewebsites.net/api/");
+        private readonly RestClient client;
+
+        public EmployeeController()
+        {
+            client = new RestClient("http://workloudchallengewebservice20171228091627.azurewebsites.net/api/");
+        }
 
         public ActionResult Index()
         {

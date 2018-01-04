@@ -28,6 +28,8 @@ namespace Workloud.Challenge.WebApplication.ViewModels
 
         [DataType(DataType.PhoneNumber)]
         [Display(Name = "Phone Number")]
+        [Phone]
+        [RegularExpression(@"^\(?([0-9]{3})\)?[-. ]?([0-9]{3})[-. ]?([0-9]{4})$", ErrorMessage = "Not a valid Phone number")]
         public string PhoneNumber { get; set; }
 
         [Display(Name = "Salary")]
