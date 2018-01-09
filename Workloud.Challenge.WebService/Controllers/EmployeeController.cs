@@ -77,8 +77,6 @@ namespace Workloud.Challenge.WebService.Controllers
             }
 
             /* Prevent post if the First Name and Last Name already exists */
-            /* TODO Remove this logic to an injectable interface */
-
             var employees = await _employeeQuery.GetAllAsync();
 
             if (employees.Any(c => c.FirstName == employee.FirstName && c.LastName == employee.LastName))
@@ -115,8 +113,6 @@ namespace Workloud.Challenge.WebService.Controllers
                 }
 
                 /* Prevent update if the updated First Name and Last Name is the same as another employee */
-                /* TODO Remove this logic to an injectable interface */
-
                 var employees = await _employeeQuery.GetAllAsync();
 
                 if (employees.Where(x => x.EmployeeId != employee.EmployeeId).Any(c => c.FirstName == employee.FirstName && c.LastName == employee.LastName))

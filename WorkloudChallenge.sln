@@ -5,8 +5,6 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workloud.Challenge.WebApplication", "Workloud.Challenge.WebApplication\Workloud.Challenge.WebApplication.csproj", "{4F0CA863-1E9E-4C82-B2DA-89087C3867DF}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{A54D1444-EA23-442C-A955-39AC853BAC6A}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workloud.Challenge.Domain", "Workloud.Challenge.Domain\Workloud.Challenge.Domain.csproj", "{D5549A69-1F44-4C4C-8A95-C7E1D88899B9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workloud.Challenge.DataAccess", "Workloud.Challenge.DataAccess\Workloud.Challenge.DataAccess.csproj", "{41B9ECB4-2090-4B3A-8153-5F0952B4D4BC}"
