@@ -59,10 +59,16 @@ namespace Workloud.Challenge.WebApplication.Controllers
                 {
                     var request = new RestRequest("Employee/", Method.POST);
                     request.AddJsonBody(employeeViewModel);
-                    client.Execute(request);
+                    IRestResponse response = client.Execute(request);
+
+                    if (response.StatusCode == HttpStatusCode.Forbidden)
+                    {
+                        ModelState.AddModelError("", "An employee with the same first and last name already exists!");
+                        return View(employeeViewModel);
+                    }
+
                     return RedirectToAction("Index");
                 }
-
                 return View(employeeViewModel);
             }
             catch
@@ -100,7 +106,10 @@ namespace Workloud.Challenge.WebApplication.Controllers
                 {
                     var request = new RestRequest("Employee/" + employeeViewModel.EmployeeId, Method.PUT);
                     request.AddJsonBody(employeeViewModel);
-                    client.Execute(request);
+                    var response = client.Execute(request);
+
+                    if (response.StatusCode == HttpStatusCode.Forbidden)
+                        ModelState.AddModelError("", "An employee with the same first and last name already exists!"); 
 
                     return View(employeeViewModel);
                 }
@@ -127,7 +136,7 @@ namespace Workloud.Challenge.WebApplication.Controllers
             if (response == null)
             {
                 return HttpNotFound();
-            }
+            }        
 
             return View(response.Data);
         }
