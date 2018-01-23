@@ -3,3 +3,8 @@ c:\Users\matrix\Documents\Visual Studio 2015\Projects\WorkloudChallenge\Workloud
 c:\Users\matrix\Documents\Visual Studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.Domain\obj\Debug\Workloud.Challenge.Domain.dll
 c:\Users\matrix\Documents\Visual Studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.Domain\obj\Debug\Workloud.Challenge.Domain.pdb
 C:\Users\matrix\Documents\Visual Studio 2015\Projects\WorkloudChallenge\Workloud.Challenge.Domain\obj\Debug\Workloud.Challenge.Domain.csprojResolveAssemblyReference.cache
+C:\Users\matrix\Documents\GitHub\WorkloudRepo\Workloud.Challenge.Domain\bin\Debug\Workloud.Challenge.Domain.dll
+C:\Users\matrix\Documents\GitHub\WorkloudRepo\Workloud.Challenge.Domain\bin\Debug\Workloud.Challenge.Domain.pdb
+C:\Users\matrix\Documents\GitHub\WorkloudRepo\Workloud.Challenge.Domain\obj\Debug\Workloud.Challenge.Domain.csprojResolveAssemblyReference.cache
+C:\Users\matrix\Documents\GitHub\WorkloudRepo\Workloud.Challenge.Domain\obj\Debug\Workloud.Challenge.Domain.dll
+C:\Users\matrix\Documents\GitHub\WorkloudRepo\Workloud.Challenge.Domain\obj\Debug\Workloud.Challenge.Domain.pdb

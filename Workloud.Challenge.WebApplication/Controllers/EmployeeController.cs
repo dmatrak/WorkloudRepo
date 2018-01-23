@@ -109,7 +109,10 @@ namespace Workloud.Challenge.WebApplication.Controllers
                     var response = client.Execute(request);
 
                     if (response.StatusCode == HttpStatusCode.Forbidden)
-                        ModelState.AddModelError("", "An employee with the same first and last name already exists!"); 
+                        ModelState.AddModelError("", "An employee with the same first and last name already exists!");
+
+                    if (response.StatusCode == HttpStatusCode.Conflict)
+                        ModelState.AddModelError("", "Something went wrong please try again!");
 
                     return View(employeeViewModel);
                 }

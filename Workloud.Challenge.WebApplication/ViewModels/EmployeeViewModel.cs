@@ -33,9 +33,13 @@ namespace Workloud.Challenge.WebApplication.ViewModels
         public string PhoneNumber { get; set; }
 
         [Display(Name = "Salary")]
+        [Range(1, 200000)]
+        [DataType(DataType.Currency)]
         public decimal? Salary { get; set; }
 
         [Display(Name = "Bonus")]
+        [Range(1, 5000)]
+        [DataType(DataType.Currency)]
         public decimal? Bonus { get; set; }
     }
 }
